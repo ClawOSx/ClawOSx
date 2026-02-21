@@ -23,5 +23,5 @@ services    clawtask · clawback · clawnet · clawmine · clawproof
 status      genesis nodes active
 ```
 
-[![X](https://img.shields.io/badge/@ClawOS-000000?style=flat&logo=x&logoColor=white)](https://x.com/ClawOS)
+[![X](https://img.shields.io/badge/@ClawOSx-000000?style=flat&logo=x&logoColor=white)](https://x.com/ClawOSx)
 [![OpenClaw](https://img.shields.io/badge/openclaw.ai-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](https://openclaw.ai)
